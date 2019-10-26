@@ -1,0 +1,17 @@
+.display{
+    grid-column: span 4;
+    background-color: #282c34;
+
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 20px;
+
+    overflow: hidden;
+}
+
+
+.tiny-font{
+    font-size: 0.4em
+}
+
